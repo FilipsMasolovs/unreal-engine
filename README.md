@@ -21,7 +21,7 @@
   </ol>
 </details>
 
-<br /><br />
+<br />
 
 # Playground
 
@@ -32,10 +32,10 @@ Super simple warehouse/barrel shooter
 
 ## Lessons learned:
 
-- [x] UE Blueprint basics
+- [x] UE Blueprint basics: nodes, pins
 - [x] UE physics simulation basics
 - [x] UE impulse mechanics
-- [x] UE actors, classes, instances
+- [x] UE actors, classes, instances, maps, vectors
 - [x] UE importing and using assets
 - [x] UE variables and functions
 
