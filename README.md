@@ -25,7 +25,7 @@
 
 # Playground
 
-<img src="assets/playground/PS1.png" alt="Playground Project"><br />
+<img src="assets/playground/PS1.png" alt="Playground Project"><br /><br /><img src="assets/playground/PS2.png" alt="Playground Project"><br />
 
 My very first Unreal Engine project aka "Playground"<br />
 Super simple warehouse/barrel shooter
