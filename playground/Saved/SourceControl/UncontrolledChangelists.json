@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/filipsmasolovs/Development/unreal-engine/playground/Content/StarterContent/Particles/P_Fire.uasset",
+				"/Users/filipsmasolovs/Development/unreal-engine/playground/Content/StarterContent/Maps/Minimal_Default.umap",
+				"/Users/filipsmasolovs/Development/unreal-engine/playground/Content/StarterContent/Maps/NoTitleYet.umap",
+				"/Users/filipsmasolovs/Development/unreal-engine/playground/Content/StarterContent/Maps/NoTitleYet2.umap",
+				"/Users/filipsmasolovs/Development/unreal-engine/playground/Content/BP_Projectile.uasset",
+				"/Users/filipsmasolovs/Development/unreal-engine/playground/Content/Main.umap",
+				"/Users/filipsmasolovs/Development/unreal-engine/playground/Content/BP_Barrel_Target.uasset"
+			]
+		}
+	]
+}
