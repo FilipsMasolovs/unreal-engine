@@ -10,7 +10,7 @@
         <img src="assets/UE-logo.png" alt="UE-logo" width="160px">
     </a>
     <br /><br />
-    <h2 align="center">Unreal Engine Playground</h2>
+    <h3 align="center">Unreal Engine Playground</h3>
     <p align="center">This is my playground for learning Unreal Engine</p>
 </div>
 
@@ -21,8 +21,6 @@
   </ol>
 </details>
 
-<br />
-
 # Playground
 
 <img src="assets/playground/PS1.png" alt="Playground Project"><br /><br /><img src="assets/playground/PS2.png" alt="Playground Project"><br />
@@ -30,7 +28,7 @@
 My very first Unreal Engine project aka "Playground"<br />
 Super simple warehouse/barrel shooter
 
-## Lessons learned:
+### Lessons learned:
 
 - [x] UE Blueprint basics: nodes, pins
 - [x] UE physics simulation basics
