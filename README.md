@@ -1,6 +1,6 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
+[![Watchers][watchers-shield]][watchers-url]
+[![Forks][forks-shield]][forks-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
@@ -43,17 +43,16 @@ Super simple warehouse/barrel shooter
 
 
 
-
-[contributors-shield]: https://img.shields.io/github/contributors/FilipsMasolovs/unreal-engine.svg?style=for-the-badge
-[forks-shield]: https://img.shields.io/github/forks/FilipsMasolovs/unreal-engine.svg?style=for-the-badge
 [stars-shield]: https://img.shields.io/github/stars/FilipsMasolovs/unreal-engine.svg?style=for-the-badge
+[watchers-shield]: https://img.shields.io/github/watchers/FilipsMasolovs/unreal-engine.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/FilipsMasolovs/unreal-engine.svg?style=for-the-badge
 [issues-shield]: https://img.shields.io/github/issues/FilipsMasolovs/unreal-engine.svg?style=for-the-badge
 [license-shield]: https://img.shields.io/github/license/FilipsMasolovs/unreal-engine.svg?style=for-the-badge
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 
-[contributors-url]: https://github.com/FilipsMasolovs/unreal-engine/graphs/contributors
-[forks-url]: https://github.com/FilipsMasolovs/unreal-engine/forks
 [stars-url]: https://github.com/FilipsMasolovs/unreal-engine/stargazers
+[watchers-url]: https://github.com/FilipsMasolovs/unreal-engine/watchers
+[forks-url]: https://github.com/FilipsMasolovs/unreal-engine/forks
 [issues-url]: https://github.com/FilipsMasolovs/unreal-engine/issues
 [license-url]: https://github.com/FilipsMasolovs/unreal-engine/blob/master/LICENSE.txt
 [linkedin-url]: https://www.linkedin.com/in/filips-masolovs
