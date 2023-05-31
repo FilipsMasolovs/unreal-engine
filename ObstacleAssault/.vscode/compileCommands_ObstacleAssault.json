@@ -1,0 +1,42 @@
+[
+	{
+		"file": "/Users/filipsmasolovs/Development/unreal-engine/ObstacleAssault/Source/ObstacleAssault/MovingPlatform.cpp",
+		"arguments": [
+			"/Users/filipsmasolovs/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/filipsmasolovs/Development/unreal-engine/ObstacleAssault/.vscode/compileCommands_ObstacleAssault/ObstacleAssault.247.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.2/Engine/Source"
+	},
+	{
+		"file": "/Users/filipsmasolovs/Development/unreal-engine/ObstacleAssault/Source/ObstacleAssault/MovingPlatform.h",
+		"arguments": [
+			"/Users/filipsmasolovs/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/filipsmasolovs/Development/unreal-engine/ObstacleAssault/.vscode/compileCommands_ObstacleAssault/ObstacleAssault.247.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.2/Engine/Source"
+	},
+	{
+		"file": "/Users/filipsmasolovs/Development/unreal-engine/ObstacleAssault/Source/ObstacleAssault/ObstacleAssault.Build.cs",
+		"arguments": [
+			"/Users/filipsmasolovs/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/filipsmasolovs/Development/unreal-engine/ObstacleAssault/.vscode/compileCommands_ObstacleAssault/ObstacleAssault.247.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.2/Engine/Source"
+	},
+	{
+		"file": "/Users/filipsmasolovs/Development/unreal-engine/ObstacleAssault/Source/ObstacleAssault/ObstacleAssault.cpp",
+		"arguments": [
+			"/Users/filipsmasolovs/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/filipsmasolovs/Development/unreal-engine/ObstacleAssault/.vscode/compileCommands_ObstacleAssault/ObstacleAssault.247.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.2/Engine/Source"
+	},
+	{
+		"file": "/Users/filipsmasolovs/Development/unreal-engine/ObstacleAssault/Source/ObstacleAssault/ObstacleAssault.h",
+		"arguments": [
+			"/Users/filipsmasolovs/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/filipsmasolovs/Development/unreal-engine/ObstacleAssault/.vscode/compileCommands_ObstacleAssault/ObstacleAssault.247.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.2/Engine/Source"
+	}
+]

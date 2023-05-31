@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/filipsmasolovs/Development/unreal-engine/ObstacleAssault/Content/Main.umap",
+				"/Users/filipsmasolovs/Development/unreal-engine/ObstacleAssault/Content/BP_ThirdPersonCharacter.uasset",
+				"/Users/filipsmasolovs/Development/unreal-engine/ObstacleAssault/Content/SCK_Casual01/Blueprints/ThirdPersonCharacter.uasset",
+				"/Users/filipsmasolovs/Development/unreal-engine/ObstacleAssault/Content/BP_MovingPlatform.uasset",
+				"/Users/filipsmasolovs/Development/unreal-engine/ObstacleAssault/Content/BP_PushingBlock.uasset"
+			]
+		}
+	]
+}

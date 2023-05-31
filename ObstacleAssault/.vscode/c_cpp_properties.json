@@ -1,0 +1,37 @@
+{
+    "configurations": [
+        {
+            "name": "ObstacleAssaultEditor Editor Mac Development (ObstacleAssault)",
+            "compilerPath": "/Users/filipsmasolovs/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+            "compilerArgs": [
+                "-isysroot",
+                "/Users/filipsmasolovs/Downloads/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk"
+            ],
+            "macFrameworkPath": [
+                "/Users/filipsmasolovs/Downloads/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk/System/Library/Frameworks"
+            ],
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "clang-x64",
+            "configurationProvider": "epic.ue",
+            "compileCommands": "/Users/filipsmasolovs/Development/unreal-engine/ObstacleAssault/.vscode/compileCommands_ObstacleAssault.json"
+        },
+        {
+            "name": "Mac",
+            "compilerPath": "/Users/filipsmasolovs/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+            "compilerArgs": [
+                "-isysroot",
+                "/Users/filipsmasolovs/Downloads/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk"
+            ],
+            "macFrameworkPath": [
+                "/Users/filipsmasolovs/Downloads/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk/System/Library/Frameworks"
+            ],
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "clang-x64",
+            "configurationProvider": "epic.ue",
+            "compileCommands": "/Users/filipsmasolovs/Development/unreal-engine/ObstacleAssault/.vscode/compileCommands_Default.json"
+        }
+    ],
+    "version": 4
+}

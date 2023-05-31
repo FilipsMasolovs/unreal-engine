@@ -28,6 +28,8 @@
 My very first Unreal Engine project aka "Playground"<br />
 Super simple warehouse/barrel shooter
 
+Content used: <a href="https://www.unrealengine.com/marketplace/en-US/product/3e2a3cb997cf47b1ab782a67957bfed0">Industry Props Pack 6</a>
+
 ### Lessons learned:
 
 - [x] UE Blueprint basics: nodes, pins
@@ -37,6 +39,18 @@ Super simple warehouse/barrel shooter
 - [x] UE importing and using assets
 - [x] UE variables and functions
 
+# ObstacleAssault
+
+<img src="assets/obstacleAssault/PS1.png" alt="ObstacleAssault Project"><br /><br /><img src="assets/obstacleAssault/PS2.png" alt="ObstacleAssault Project"><br />
+
+My second attempt at an Unreal Engine project aka "ObstacleAssault"<br />
+A super simple platformer with some up and down moving platforms and side to side moving pushers
+
+Content used: <a href="https://www.unrealengine.com/marketplace/en-US/product/stylized-male-character-kit-casual">Stylized Character Kit: Casual 01</a> / <a href="https://www.unrealengine.com/marketplace/en-US/product/unreal-learning-kit?sessionInvalidated=true">Unreal Learning Kit</a>
+
+### Lessons learned:
+
+- [x] UE 
 
 
 

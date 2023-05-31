@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"/Users/filipsmasolovs/Development/unreal-engine/ObstacleAssault/Source/ObstacleAssault/ObstacleAssault.Build.cs",
+		"/Users/filipsmasolovs/Development/unreal-engine/ObstacleAssault/Source/ObstacleAssault.Target.cs",
+		"/Users/filipsmasolovs/Development/unreal-engine/ObstacleAssault/Source/ObstacleAssaultEditor.Target.cs"
+	],
+	"EngineVersion": "5.2.0"
+}
